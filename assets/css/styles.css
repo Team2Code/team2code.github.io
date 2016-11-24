@@ -2,13 +2,18 @@
   padding-left: 0px;
   padding-right: 0px;
 }
+
 #nav-wrap {
   border-bottom: 2px solid #f1f1f1;
   background-color: #fafafa;
   margin-bottom: 0px;
 }
+
 #team-fig{
     margin-bottom: 60px;
 }
 
-.img-center {margin:0 auto;}
+.img-center {
+  margin:0 auto; 
+  display: inline;
+}
